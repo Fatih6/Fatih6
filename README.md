@@ -12,6 +12,7 @@ Contact with me via these platforms!
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatih6&layout=compact&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatih6&show_icons=true&theme=radical)
 
 ## 🛠 Technologies & Tools 
 <img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
