@@ -12,6 +12,9 @@ Contact with me via these platforms!
 
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fatih6&layout=compact&theme=dark)
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatih6&show_icons=true&theme=radical)
 
 ## 🛠 Technologies & Tools 
