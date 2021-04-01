@@ -15,6 +15,21 @@ Contact with me via these platforms!
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fatih6&show_icons=true&theme=radical)
 
 ## 🛠 Technologies & Tools 
