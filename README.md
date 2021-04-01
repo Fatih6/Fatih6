@@ -3,7 +3,7 @@
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.Fatih6%2Freadme)
 ### Hi there 👋
 
-I'm Fatih.I'm sixteen years old
+I'm Fatih.I'm 16 years old.
 
 Contact with me via these platforms!
 
@@ -18,7 +18,6 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"></img>
 
 
 <!--
