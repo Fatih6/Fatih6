@@ -1,6 +1,6 @@
-[![GitHub followers](https://img.shields.io/github/followers/salihyanbal?style=social)](https://github.com/salihyanbal?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/salihyanbal?style=social)
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.salihyanbal%2Freadme)
+[![GitHub followers](https://img.shields.io/github/followers/Fatih6?style=social)](https://github.com/Fatih6?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/Fatih6?style=social)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsalihyanbal.Fatih6%2Freadme)
 ### Hi there 👋
 
 <!--
