@@ -19,7 +19,6 @@ Contact with me via these platforms!
 <img src="https://img.shields.io/badge/.NETCore-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"></img>
 
-
 <!--
 **Fatih6/Fatih6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
