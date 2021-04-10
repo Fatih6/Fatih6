@@ -6,7 +6,7 @@
 I'm Fatih.I'm 16 years old.
 
 <div size='20px'> 
-<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
+<h2 align='left'> Contact with me via these platforms! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
  </div>
 
 <a href="https://www.linkedin.com/in/fatih-%C3%A7al%C4%B1%C5%9Fkan-14864b20a/" target="_blank" rel="nofollow"><img alt="Fatih's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
